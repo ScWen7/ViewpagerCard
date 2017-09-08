@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudyTest</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Etiam eget ligula eu lectus lobortis condimentum.</string>
+</resources>
